@@ -81,4 +81,3 @@ Passionate about teaching modern web development, focusing on practical, project
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
